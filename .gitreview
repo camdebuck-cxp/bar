@@ -1,0 +1,4 @@
+[gerrit]
+host=review.connexionpoint.com
+port=29418
+project=BigBoxDryErase/bar.git
